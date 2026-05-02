@@ -13,15 +13,18 @@ Neste primeiro dia, foi criada a estrutura base da página utilizando HTML5, apl
 
 ## 🎨 Dia 2 - Estilização com CSS
 
-No segundo dia, iniciamos a estilização da página:
+No segundo dia, evoluímos a interface adicionando estilos e corrigindo o layout:
 
 * Aplicação de fonte personalizada ("Alice")
+* Adição de imagens (imagem principal e background)
 * Definição de cores e identidade visual
-* Adição de imagem de fundo
 * Criação de um container central estilizado (`#page`)
-* Bordas arredondadas em elementos e imagens
+* Uso de `padding` e `margin` para organização do layout
+* Ajustes de alinhamento entre imagem e conteúdo (corrigindo hierarquia com `<main>`)
+* Bordas arredondadas em imagens e elementos
 * Ajustes de tipografia (títulos e textos)
-* Correção de espaçamentos (remoção de margens na seção `.info`)
+* Organização das informações da receita (tempo, rendimento e dificuldade)
+* Correção de espaçamentos e consistência visual
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -30,8 +33,8 @@ No segundo dia, iniciamos a estilização da página:
 
 ## 📌 Objetivo
 
-Praticar a construção de páginas estruturadas e evoluir para estilização com CSS, criando interfaces mais organizadas e visualmente agradáveis.
+Praticar a construção de páginas estruturadas e evoluir na estilização com CSS, entendendo melhor conceitos de layout, espaçamento e hierarquia de elementos.
 
 ## 🚧 Status
 
-Em desenvolvimento (Dia 2 em andamento)
+Em desenvolvimento (Dia 2 concluído)
