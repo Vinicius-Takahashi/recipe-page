@@ -2,6 +2,12 @@
 
 Projeto de uma página de receita desenvolvido com HTML e CSS como parte do meu aprendizado em desenvolvimento web.
 
+## 🌐 Projeto online
+
+Acesse o projeto publicado:
+
+https://vinicius-takahashi.github.io/recipe-page/
+
 ## 📅 Dia 1 - Estrutura HTML
 
 Neste primeiro dia, foi criada a estrutura base da página utilizando HTML5, aplicando:
@@ -30,6 +36,9 @@ No segundo dia, evoluímos a interface adicionando estilos e refinando o layout:
 
 * HTML5
 * CSS3
+* Git
+* GitHub
+* GitHub Pages
 
 ## 📌 Objetivo
 
